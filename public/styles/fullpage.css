@@ -1,0 +1,48 @@
+body{
+    font-family: arial;
+}
+.section{
+    /*text-align: center;*/
+    /*font-size: 4em;*/
+    /*color: #fff;*/
+}
+
+.actions{
+    list-style-type: none;
+}
+.actions button{
+    padding: .93em 1.87em;
+    background: #35495e;
+    border-radius: 5px;
+    border: 0;
+    color: #fff;
+    margin: 7px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.actions button:hover{
+    background: #fff;
+    color: #35495e;
+}
+
+
+/* font-family: "Lato", sans-serif;
+font-weight: 400;
+line-height: 1.7;
+text-align: center;
+margin: 0;
+box-sizing: inherit;
+background-color: #fff;
+color: #777;
+animation: moveInBottom .5s ease-out .75s;
+animation-fill-mode: backwards;
+text-transform: uppercase;
+text-decoration: none;
+padding: 1.5rem 4rem;
+display: inline-block;
+border-radius: 10rem;
+transition: all .2s;
+position: relative;
+font-size: 1.6rem;
+border: none;
+cursor: pointer; */

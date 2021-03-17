@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="315" height="544" viewBox="0 0 315 544">
+    <defs>
+        <path id="8givc8py6a" d="M10 0h295c5.523 0 10 4.477 10 10v534H0V10C0 4.477 4.477 0 10 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-30 -6369) translate(30 6369)">
+                <mask id="2uqyyc6qwb" fill="#fff">
+                    <use xlink:href="#8givc8py6a"/>
+                </mask>
+                <circle cx="6.5" cy="9.5" r="128.5" stroke="#FFF" stroke-width="50" mask="url(#2uqyyc6qwb)" opacity=".102"/>
+                <circle cx="315.5" cy="430.5" r="128.5" stroke="#FFF" stroke-width="50" mask="url(#2uqyyc6qwb)" opacity=".102"/>
+            </g>
+        </g>
+    </g>
+</svg>

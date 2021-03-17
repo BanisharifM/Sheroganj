@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.w-fit {
+  width: fit-content !important;
+}
+
+img {
+  max-width: unset !important;
+}
+
+button, input[type="button"] {
+  outline: none !important;
+}
+
+.text-start {
+  text-align: start !important;
+}
+
+.text-end {
+  text-align: end !important;
+}
