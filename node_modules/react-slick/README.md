@@ -54,7 +54,7 @@ or add cdn link in your html
 import React from "react";
 import Slider from "react-slick";
 
-export default function SimpleSlider() {
+export default funtion SimpleSlider() {
   var settings = {
     dots: true,
     infinite: true,
