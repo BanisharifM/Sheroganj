@@ -1,0 +1,1 @@
+{"ast":null,"code":"const myProxy = Proxy;\nexport default myProxy;","map":{"version":3,"sources":["/home/null/Desktop/Gitlab Projects/sheroganj/utils/proxies/index.ts"],"names":["myProxy","Proxy"],"mappings":"AAAA,MAAMA,OAAO,GAAGC,KAAhB;AACA,eAAeD,OAAf","sourcesContent":["const myProxy = Proxy as typeof MyProxy;\nexport default myProxy;\n"]},"metadata":{},"sourceType":"module"}
